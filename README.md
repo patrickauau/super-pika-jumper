@@ -1,1 +1,1 @@
-<h1>Não sei se ta funcionando pelo site, então testa pelo vscode caso de errado</h1>
+<h1>Não tá carregando as imagens de fundo, e tô sem tempo pra arrumar por agora, testa no vscode se quiser ver o que realmente deveria aparecer!</h1>
